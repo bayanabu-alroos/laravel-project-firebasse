@@ -1,2 +1,2 @@
-# laravel-project-firebasse
+# laravel-project-firebase
 Laravel project firebase 
